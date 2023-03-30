@@ -1,0 +1,93 @@
+body{
+    background-image: url(https://static.nv.ua/shared/system/Article/posters/002/347/309/original/0cf55243b81b79cb3244fa0e13755aa6.jpg?q=85&stamp=20210617144119);
+    background-size: 100%;
+}
+h1{
+    color: white;
+    text-align: center;
+    text-shadow: 3px 3px blue, -3px 3px blue, 3px -3px blue, -3px -3px blue ;
+    padding: 20px 0 20px;
+}
+.record{
+    width: 1000px;
+    height: 250px;
+    margin: 0 auto;
+    background-color: #33677f70;
+    border-radius: 25px;
+}
+.record-block{
+    padding: 70;
+}
+.record-email{
+    width: 400px;
+    height: 50px;
+    border-radius: 10px;
+    margin: 20px 300px;
+    background-color: #59b094d4;
+}
+.record-password{
+    width: 400px;
+    height: 50px;
+    border-radius: 10px;
+    margin: 0px 300px;
+    background-color: #59b094d4;
+}
+.button{
+    width: 80px;
+    height: 30px;
+    border-radius: 5px;
+    margin: 10px 200px;
+    background-color: #3dbaec90;
+}
+.button:nth-child(3){
+    background-color: #6345ce90;
+}
+.quiz{
+    width: 1000px;
+    height: 1200px;
+    text-align: center;
+    margin: 0 auto;
+    background-color: #33677f70;
+    border-radius: 25px;
+    color: white;
+}
+h2{
+    text-align: center;
+    padding: 20px 0 0;
+}
+.answer {
+    height: 200px;
+    width: 700px;
+    background-color: #59b094d4;
+    border-radius: 25px;
+    margin: 0 auto;
+}
+.checkbox {
+    display: inline;
+    margin-top: 100px;
+    padding: 10px;
+    font-size: large;
+}
+.end {
+    width: 1000px;
+    height: 1000px;
+    margin: 0 auto;
+    background-color: #33677f70;
+    border-radius: 25px;
+    color: white;
+}
+.radio1 {
+    display: inline;
+    margin: 100px 10px 40px;
+    padding: 10px;
+    font-size: large;
+}
+.table-img {
+    
+}
+.img {
+    border-radius: 10px;
+    margin: 0 450px 20px 450px;
+    width: 100px;
+    height: 100px;
+}
