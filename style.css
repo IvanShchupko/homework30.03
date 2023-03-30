@@ -40,6 +40,9 @@ h1{
     margin: 10px 200px;
     background-color: #3dbaec90;
 }
+.button:hover {
+    cursor: pointer;
+}
 .button:nth-child(3){
     background-color: #6345ce90;
 }
@@ -69,6 +72,9 @@ h2{
     padding: 10px;
     font-size: large;
 }
+.checkbox:hover {
+    cursor: pointer;
+}
 .end {
     width: 1000px;
     height: 1000px;
@@ -82,6 +88,9 @@ h2{
     margin: 100px 10px 40px;
     padding: 10px;
     font-size: large;
+}
+.radio1:hover {
+    cursor: pointer;
 }
 .img {
     border-radius: 10px;
