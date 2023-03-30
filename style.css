@@ -1,6 +1,7 @@
 body{
     background-image: url(https://static.nv.ua/shared/system/Article/posters/002/347/309/original/0cf55243b81b79cb3244fa0e13755aa6.jpg?q=85&stamp=20210617144119);
     background-size: 100%;
+    background-attachment: fixed;
 }
 h1{
     color: white;
